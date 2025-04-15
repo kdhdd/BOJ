@@ -7,15 +7,12 @@ public class 특이한정렬 {
         int[] numlist = {1, 2, 3, 4, 5, 6};
         int n = 4;
 
-        Solution sol = new Solution();
-        int[] result = sol.solution(numlist, n);
+        int[] result = solution(numlist, n);
 
         System.out.println(Arrays.toString(result));
     }
-}
 
-class Solution {
-    public int[] solution(int[] numlist, int n) {
+    public static int[] solution(int[] numlist, int n) {
         PriorityQueue<Integer> pq = new PriorityQueue<>(
                 (a, b) -> Math.abs(a - n) == Math.abs(b - n) ? b - a : Math.abs(a - n) - Math.abs(b - n)
         );
