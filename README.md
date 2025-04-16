@@ -51,8 +51,9 @@
 >### 🎨 구현
 | 순번 |                                      문제 이름                                      | 난이도 | 완료 |
 |:--:|:-------------------------------------------------------------------------------:| :-----: | :-----: |
-| 00 | [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940) | *Level1* | 💡 |
-| 01 |    [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947)     | *Level1* | 💡 |
+| 00 | [문자열 정렬하기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120911) | *Level0* | 💡 |
+| 01 | [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940) | *Level1* | 💡 |
+| 02 |    [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947)     | *Level1* | 💡 |
 
 <br>
 
