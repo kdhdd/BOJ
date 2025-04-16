@@ -1,4 +1,4 @@
-package programmers;
+package programmers.lv1;
 
 public class 하샤드수 {
     public static void main(String[] args) {

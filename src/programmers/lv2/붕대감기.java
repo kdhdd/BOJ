@@ -1,6 +1,4 @@
-package programmers;
-
-import java.util.*;
+package programmers.lv2;
 
 public class 붕대감기 {
     public static void main(String[] args) {
