@@ -38,6 +38,7 @@
 | 02 | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576?language=python3) | *Level1* | 💡 |
 | 03 | [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578?language=python3) | *Level2* | 💡 |
 | 04 | [특이한 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/120880?language=python3) | *Level0* | 💡 |
+| 05 | [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915) | *Level1* | 💡 |
 
 <br>
 
