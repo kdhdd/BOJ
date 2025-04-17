@@ -12,22 +12,21 @@ public class 같은숫자는싫어 {
     }
 
     public static int[] solution(int[] arr) {
-        ArrayList<Integer> arrList = new ArrayList<>();
+        Deque<Integer> stack = new ArrayDeque<>();
 
-        arrList.add(arr[0]); // 첫 원소는 무조건 추가
-        int k = 0;
+        // 첫 값 넣기
+        stack.push(arr[0]);
 
         for (int i = 1; i < arr.length; i++) {
-            if (arr[i] != arrList.get(k)) {
-                arrList.add(arr[i]);
-                k++;
+            if (stack.peek() != arr[i]) {
+                stack.push(arr[i]);
             }
         }
 
-        // ArrayList → 배열로 변환
-        int[] answer = new int[arrList.size()];
-        for (int i = 0; i < arrList.size(); i++) {
-            answer[i] = arrList.get(i);
+        // 스택은 역순이므로 배열로 바꾸기 전에 뒤집기
+        int[] answer = new int[stack.size()];
+        for (int i = stack.size() - 1; i >= 0; i--) {
+            answer[i] = stack.pop();
         }
 
         return answer;
