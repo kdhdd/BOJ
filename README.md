@@ -70,6 +70,7 @@
 | 순번 |    문제 이름     | 난이도 | 완료 |
 | :-----: |:------------:| :-----: | :-----: |
 | 00 | [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906) | *Level1* | 💡 |
+| 01 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | *Level2* | 💡 |
 
 <br>
 
