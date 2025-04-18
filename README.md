@@ -19,6 +19,7 @@
 | 00 | [21736](https://www.acmicpc.net/problem/21736) |       [헌내기는 친구가 필요해](https://www.acmicpc.net/problem/21736)       | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 💡 |
 | 01 | [25516](https://www.acmicpc.net/problem/25516) | [거리가 k이하인 트리 노드에서 사과 수확하기](https://www.acmicpc.net/problem/25516) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 💡 |
 | 02 |                    [2644](https://www.acmicpc.net/problem/2644)                    |           [촌수계산](https://www.acmicpc.net/problem/2644)           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 💡 |
+| 03 | [2606](https://www.acmicpc.net/problem/2606) | [바이러스](https://www.acmicpc.net/problem/2606) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 💡 |
 
 <br>
 
