@@ -45,8 +45,8 @@
 | 순번 |                                             문제 이름                                             |   난이도    | 완료 |
 |:--:|:---------------------------------------------------------------------------------------------:|:--------:| :-----: |
 | 00 | [붕대 감기](https://school.programmers.co.kr/learn/courses/19344/lessons/242258?language=python3) | *Level1* | 💡 |
-| 01 | [석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136) | *Level2* | 💡 |
-
+| 01 | [동영상 재생기](https://school.programmers.co.kr/learn/courses/30/lessons/340213) | *Level1* | 💡 |
+| 02 | [석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136) | *Level2* | 💡 |
 
 <br>
 
