@@ -1,4 +1,4 @@
-package programmers.lv2;
+package programmers.lv1;
 
 public class 붕대감기 {
     public static void main(String[] args) {
