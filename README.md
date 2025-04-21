@@ -51,8 +51,8 @@
 <br>
 
 >### 📝 PCCP 대비
-| 순번 |                                                문제 이름                                                | 난이도 | 완료 |
-|:--:|:---------------------------------------------------------------------------------------------------:| :-----: | :-----: |
+| 순번 |                                                문제 이름                                                |   난이도    | 완료 |
+|:--:|:---------------------------------------------------------------------------------------------------:|:--------:| :-----: |
 | 00 |   [두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912?language=python3)    | *Level1* | 💡 |
 | 01 | [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932?language=python3) | *Level1* | 💡 |
 | 02 |   [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576?language=python3)    | *Level1* | 💡 |
@@ -60,6 +60,7 @@
 | 04 |     [특이한 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/120880?language=python3)     | *Level0* | 💡 |
 | 05 |     [[PCCE 기출문제] 9번 / 이웃한 칸](https://school.programmers.co.kr/learn/courses/30/lessons/250125)      | *Level1* | 💡 |
 | 06 |   [[PCCP 모의고사 #2] 1번 / 실습용 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/121687)    | *Level1* | 💡 |
+| 07 | [[PCCP 모의고사 1] 2번 / 체육대회](https://school.programmers.co.kr/learn/courses/15008/lessons/121684) | *Level2* | 💡 |
 
 <br>
 
