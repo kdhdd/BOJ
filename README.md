@@ -22,6 +22,7 @@
 | 03 |  [2606](https://www.acmicpc.net/problem/2606)  |           [바이러스](https://www.acmicpc.net/problem/2606)            | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 💡 |
 | 04 | [11724](https://www.acmicpc.net/problem/11724)  |        [연결 요소의 개수](https://www.acmicpc.net/problem/11724)         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 💡 |
 | 05 | [1260](https://www.acmicpc.net/problem/1260) | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 💡 |
+| 06 | [1743](https://www.acmicpc.net/problem/1743) | [음식물 피하기](https://www.acmicpc.net/problem/1743) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 💡 |
 
 <br>
 
