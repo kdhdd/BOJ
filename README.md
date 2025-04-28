@@ -23,6 +23,7 @@
 | 04 | [11724](https://www.acmicpc.net/problem/11724)  |        [연결 요소의 개수](https://www.acmicpc.net/problem/11724)         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 💡 |
 | 05 | [1260](https://www.acmicpc.net/problem/1260) | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 💡 |
 | 06 | [1743](https://www.acmicpc.net/problem/1743) | [음식물 피하기](https://www.acmicpc.net/problem/1743) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 💡 |
+| 07 | [1303](https://www.acmicpc.net/problem/1303) | [전쟁 - 전투](https://www.acmicpc.net/problem/1303) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 💡 |
 
 <br>
 
