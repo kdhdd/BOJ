@@ -88,6 +88,7 @@
 | 00 | [문자열 정렬하기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120911) | *Level0* | 💡 |
 | 01 | [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940) | *Level1* | 💡 |
 | 02 |    [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947)     | *Level1* | 💡 |
+| 03 | [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990) | *Level1* | 💡 |
 
 <br>
 
