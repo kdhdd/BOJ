@@ -89,6 +89,7 @@
 | 01 | [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940) | *Level1* | 💡 |
 | 02 |    [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947)     | *Level1* | 💡 |
 | 03 | [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990) | *Level1* | 💡 |
+| 04 | [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) | *Level1* | 💡 |
 
 <br>
 
