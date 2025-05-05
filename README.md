@@ -83,14 +83,15 @@
 <br>
 
 >### 🎨 구현
-| 순번 |                                      문제 이름                                      | 난이도 | 완료 |
-|:--:|:-------------------------------------------------------------------------------:| :-----: | :-----: |
-| 00 | [문자열 정렬하기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120911) | *Level0* | 💡 |
-| 01 | [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940) | *Level1* | 💡 |
-| 02 |    [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947)     | *Level1* | 💡 |
-| 03 | [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990) | *Level1* | 💡 |
-| 04 | [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) | *Level1* | 💡 |
-| 05 | [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889) | *Level1* | 💡 |
+| 순번 |                                           문제 이름                                           |   난이도    | 완료 |
+|:--:|:-----------------------------------------------------------------------------------------:|:--------:| :-----: |
+| 00 |     [문자열 정렬하기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120911)      | *Level0* | 💡 |
+| 01 |      [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940)      | *Level1* | 💡 |
+| 02 |         [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947)          | *Level1* | 💡 |
+| 03 |        [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)        | *Level1* | 💡 |
+| 04 |      [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)       | *Level1* | 💡 |
+| 05 |          [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)           | *Level1* | 💡 |
+| 06 | [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936) | *Level2* | 💡 |
 
 <br>
 
